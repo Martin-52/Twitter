@@ -28,4 +28,4 @@ Here's a walkthrough of implemented user stories:
 
 Implemented bonus stories"
 
-<img src='http://recordit.co/GeyQF9b0Z7' title='Video Walkthrough' width='' alt='Bonus Stories Walkthrough' />
+<img src='http://g.recordit.co/GeyQF9b0Z7.gif' title='Video Walkthrough' width='' alt='Bonus Stories Walkthrough' />

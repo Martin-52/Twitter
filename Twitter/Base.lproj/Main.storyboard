@@ -106,7 +106,6 @@
                                             <state key="normal" title="Button" image="retweet-icon"/>
                                             <connections>
                                                 <action selector="retweet:" destination="ZmY-nw-bwc" eventType="touchUpInside" id="Qiu-sN-p69"/>
-                                                <action selector="retweetButton:" destination="ZmY-nw-bwc" eventType="touchUpInside" id="frL-t0-K62"/>
                                             </connections>
                                         </button>
                                     </subviews>
